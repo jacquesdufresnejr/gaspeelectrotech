@@ -56,9 +56,9 @@ function AboutPage() {
         <div className="mt-12 grid gap-12 lg:grid-cols-2">
           <AnimatedSection delay={100}>
             <div className="rounded-2xl border border-border bg-card p-8">
-              <h2 className="font-display text-2xl font-semibold">Notre mission</h2>
+              <h2 className="font-display text-2xl font-semibold">Notre mission : Simplifier l'automatisation pour les PME de la région</h2>
               <p className="mt-4 text-muted-foreground">
-                Simplifier l'automatisation pour les PME de la région. Nous concevons des systèmes sur mesure qui améliorent la productivité, la qualité et la fiabilité des opérations, tout en respectant les réalités budgétaires et humaines des entreprises locales.
+                Nous concevons des systèmes sur mesure qui améliorent la productivité, la qualité et la fiabilité des opérations, tout en respectant les réalités budgétaires et humaines des entreprises locales.
               </p>
               <p className="mt-4 text-muted-foreground">
                 Que ce soit pour moderniser une ligne de production, automatiser une serre ou centraliser les données d'un navire de pêche, nous mettons la technologie au service de vos objectifs concrets.
