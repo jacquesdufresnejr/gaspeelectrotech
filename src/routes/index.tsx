@@ -32,13 +32,13 @@ function Index() {
               <div>
                 <span className="inline-flex items-center gap-2 rounded-full bg-primary-foreground/10 px-3 py-1 text-xs font-medium">
                   <Zap className="h-3.5 w-3.5" />
-                  Automatisation & électrotechnique
+                  Expertise locale • Service rapide • Solutions fiables
                 </span>
                 <h1 className="mt-6 font-display text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
-                  Des systèmes automatisés conçus pour la Gaspésie
+                  Des systèmes automatisés pensés pour les PME de la Gaspésie
                 </h1>
                 <p className="mt-4 max-w-lg text-primary-foreground/80">
-                  Gaspé Électro-Tech conçoit, installe et maintient des solutions d'automatisation adaptées aux réalités des PME, agriculteurs, pêcheurs et manufacturiers locaux.
+                  Gaspé Électro-Tech conçoit, installe et entretient des systèmes automatisés pour les PME de la Gaspésie. De la programmation à la surveillance à distance, nous offrons une expertise locale et un service rapide, pensés pour des entreprises qui n'ont pas de technicien dédié à l'interne.
                 </p>
               </div>
               <div className="mt-8 flex flex-wrap gap-3">
