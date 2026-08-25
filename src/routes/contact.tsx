@@ -163,11 +163,11 @@ function ContactPage() {
                   </li>
                   <li>
                     <a
-                      href="mailto:get@get.com"
+                      href="mailto:get@get.ca"
                       className="flex items-center gap-3 text-muted-foreground transition-colors hover:text-foreground"
                     >
                       <Mail className="h-5 w-5 shrink-0 text-accent" />
-                      get@get.com
+                      get@get.ca
                     </a>
                   </li>
                   <li>
