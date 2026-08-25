@@ -50,20 +50,20 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:jacquesjrdufresne@gmail.com"
+                  href="mailto:get@get.ca"
                   className="flex items-center gap-3 text-sm text-muted-foreground transition-colors hover:text-foreground"
                 >
                   <Mail className="h-4 w-4 shrink-0 text-accent" />
-                  jacquesjrdufresne@gmail.com
+                  get@get.ca
                 </a>
               </li>
               <li>
                 <a
-                  href="tel:418-355-8298"
+                  href="tel:000-000-0000"
                   className="flex items-center gap-3 text-sm text-muted-foreground transition-colors hover:text-foreground"
                 >
                   <Phone className="h-4 w-4 shrink-0 text-accent" />
-                  418-355-8298
+                  000-000-0000
                 </a>
               </li>
               <li>
