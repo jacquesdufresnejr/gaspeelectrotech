@@ -50,9 +50,6 @@ function AboutPage() {
         <AnimatedSection>
           <div className="max-w-3xl">
             <h1 className="font-display text-4xl font-bold tracking-tight">À propos</h1>
-            <p className="mt-4 text-lg text-muted-foreground">
-              Gaspé Électro-Tech est née d'une conviction : les entreprises de la Gaspésie méritent un accès local à une expertise moderne en automatisation et électrotechnique.
-            </p>
           </div>
         </AnimatedSection>
 
