@@ -163,20 +163,20 @@ function ContactPage() {
                   </li>
                   <li>
                     <a
-                      href="mailto:jacquesjrdufresne@gmail.com"
+                      href="mailto:get@get.com"
                       className="flex items-center gap-3 text-muted-foreground transition-colors hover:text-foreground"
                     >
                       <Mail className="h-5 w-5 shrink-0 text-accent" />
-                      jacquesjrdufresne@gmail.com
+                      get@get.com
                     </a>
                   </li>
                   <li>
                     <a
-                      href="tel:418-355-8298"
+                      href="tel:000-000-0000"
                       className="flex items-center gap-3 text-muted-foreground transition-colors hover:text-foreground"
                     >
                       <Phone className="h-5 w-5 shrink-0 text-accent" />
-                      418-355-8298
+                      000-000-0000
                     </a>
                   </li>
                   <li>
