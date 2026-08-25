@@ -97,10 +97,10 @@ function Index() {
               </p>
             </div>
             <a
-              href="tel:418-355-8298"
+              href="tel:000-000-0000"
               className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-foreground hover:text-accent"
             >
-              418-355-8298
+              000-000-0000
             </a>
           </div>
         </div>
@@ -112,9 +112,6 @@ function Index() {
           <div className="mb-10 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <h2 className="font-display text-3xl font-bold tracking-tight">Nos services</h2>
-              <p className="mt-2 text-muted-foreground">
-                De la conception à la maintenance, une offre complète pour vos systèmes automatisés.
-              </p>
             </div>
             <Link
               to="/services"
@@ -218,11 +215,11 @@ function Index() {
                 Demander une consultation
               </Link>
               <a
-                href="tel:418-355-8298"
+                href="tel:000-000-0000"
                 className="inline-flex items-center gap-2 rounded-lg border border-primary-foreground/20 px-6 py-3 text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary-foreground/10"
               >
                 <Phone className="h-4 w-4" />
-                418-355-8298
+                000-000-0000
               </a>
             </div>
           </div>
